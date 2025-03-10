@@ -2,6 +2,20 @@
 
 Welcome to Arogyam - The A.I & ML based Health Assistant. This web application is designed to predict diseases using Artificial Intelligence and Machine Learning, providing diagnostic tools for early illness detection and promoting preventive health through data analysis.
 
+---
+
+## 📺 Project Demo  
+
+### **🔹 Patient Login**
+![Patient Login](assets/patient-login.gif)
+
+### **🔹 Doctor Login**
+![Doctor Login](assets/doctor-login.gif)
+
+### **🔹 Arogyam Dashboard**
+![Arogyam Page](assets/arogyam-page.gif)
+---
+
 ## Table of Contents
 - [How To Use](#use)
 - [Features](#features)
