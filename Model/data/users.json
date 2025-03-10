@@ -1,0 +1,46 @@
+{
+    "doctors": {
+        "dr.smith": {
+            "password": "1234",
+            "name": "Dr. John Smith",
+            "specialization": "General Medicine",
+            "patients": ["patient1", "patient2"]
+        },
+        "dr.jones": {
+            "password": "1234",
+            "name": "Dr. Sarah Jones",
+            "specialization": "Cardiology",
+            "patients": ["patient3", "patient4"]
+        }
+    },
+    "patients": {
+        "patient1": {
+            "password": "1234",
+            "name": "James Wilson",
+            "age": 35,
+            "doctor": "dr.smith",
+            "medical_history": []
+        },
+        "patient2": {
+            "password": "1234",
+            "name": "Emily Brown",
+            "age": 28,
+            "doctor": "dr.smith",
+            "medical_history": []
+        },
+        "patient3": {
+            "password": "1234",
+            "name": "Michael Davis",
+            "age": 45,
+            "doctor": "dr.jones",
+            "medical_history": []
+        },
+        "patient4": {
+            "password": "1234",
+            "name": "Sarah Miller",
+            "age": 52,
+            "doctor": "dr.jones",
+            "medical_history": []
+        }
+    }
+} 
